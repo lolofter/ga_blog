@@ -3,9 +3,11 @@ title: Jialuo's Gallery
 description: You can stay in my garden
 baseurl: "ga_blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-author:
-google_analytics_token: 'UA-56900809-1'
+author: Jialuo
 
+
+# Google Analytics
+google_analytics: 56900809-X
 # Collection settings
 collections:
   photos:
