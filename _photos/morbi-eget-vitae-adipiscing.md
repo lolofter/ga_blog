@@ -1,6 +1,6 @@
 ---
-title: Morbi eget vitae adipiscing
+title: @ Henry Cowell Redwood State Park, CA
 image: assets/images/fulls/09.jpg
 thumbnail: assets/images/thumbs/09.jpg
-caption: In quis vulputate dui. Maecenas metus elit, dictum praesent lacinia lacus.
+caption:
 ---
