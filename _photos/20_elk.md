@@ -1,6 +1,6 @@
 ---
-title: Rocky Mountain National Park, CO
-image: assets/images/fulls/19.jpg
-thumbnail: assets/images/thumbs/19.jpg
+title: Point Reyes National Seashore, CA
+image: assets/images/fulls/20.jpg
+thumbnail: assets/images/thumbs/20.jpg
 caption:
 ---
