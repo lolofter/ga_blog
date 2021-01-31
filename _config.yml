@@ -1,5 +1,5 @@
 # Site settings
-title: Jialuo's Place
+title: Jialuo's Gallery
 description: You can stay in my garden
 baseurl: "ga_blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
