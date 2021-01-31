@@ -1,6 +1,6 @@
 ---
-title: San Diego, CA
-image: assets/images/fulls/12.jpg
-thumbnail: assets/images/thumbs/12.jpg
+title: Sawyer Camp Trail, CA
+image: assets/images/fulls/01.jpg
+thumbnail: assets/images/thumbs/01.jpg
 caption:
 ---
