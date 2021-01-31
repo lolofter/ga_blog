@@ -4,6 +4,7 @@ description: You can stay in my garden
 baseurl: "ga_blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
+google_analytics_token: 'UA-56900809-1'
 
 # Collection settings
 collections:
