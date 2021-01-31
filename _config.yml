@@ -1,0 +1,25 @@
+# Site settings
+title: Photography
+description: Inside my telescope I see
+baseurl: "ga_blog" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+author:
+
+# Collection settings
+collections:
+  photos:
+
+# Social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url:
+
+# Build settings
+markdown: kramdown
